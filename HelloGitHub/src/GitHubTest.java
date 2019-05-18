@@ -5,7 +5,7 @@ public class GitHubTest {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello GitHub");
 		
-		String git="こんにちは！Git";
+	String git="こんにちは！Git";
 		
 		System.out.println(git);
 	}
